@@ -1,0 +1,31 @@
+date,product,category,sales,revenue,customer_age,region
+2023-01-01,Laptop,Electronics,10,12000.00,28,North
+2023-01-02,Smartphone,Electronics,15,9000.00,35,South
+2023-01-03,Headphones,Electronics,25,2500.00,22,East
+2023-01-04,Desk Chair,Furniture,8,4000.00,45,West
+2023-01-05,Coffee Table,Furniture,5,3500.00,52,North
+2023-01-06,Desk Lamp,Furniture,12,1200.00,31,South
+2023-01-07,Monitor,Electronics,18,5400.00,29,East
+2023-01-08,Keyboard,Electronics,30,2100.00,24,West
+2023-01-09,Mouse,Electronics,35,1750.00,30,North
+2023-01-10,Bookshelf,Furniture,6,3600.00,41,South
+2023-01-11,Tablet,Electronics,14,7000.00,33,East
+2023-01-12,Sofa,Furniture,3,9000.00,48,West
+2023-01-13,Printer,Electronics,9,2700.00,37,North
+2023-01-14,Dining Table,Furniture,4,5200.00,52,South
+2023-01-15,Laptop,Electronics,12,14400.00,26,East
+2023-01-16,Smartphone,Electronics,20,12000.00,31,West
+2023-01-17,Headphones,Electronics,22,2200.00,25,North
+2023-01-18,Desk Chair,Furniture,7,3500.00,42,South
+2023-01-19,Coffee Table,Furniture,6,4200.00,39,East
+2023-01-20,Desk Lamp,Furniture,15,1500.00,28,West
+2023-01-21,Monitor,Electronics,14,4200.00,33,North
+2023-01-22,Keyboard,Electronics,25,1750.00,27,South
+2023-01-23,Mouse,Electronics,30,1500.00,24,East
+2023-01-24,Bookshelf,Furniture,8,4800.00,44,West
+2023-01-25,Tablet,Electronics,10,5000.00,36,North
+2023-01-26,Sofa,Furniture,5,15000.00,51,South
+2023-01-27,Printer,Electronics,12,3600.00,32,East
+2023-01-28,Dining Table,Furniture,3,3900.00,47,West
+2023-01-29,Laptop,Electronics,8,9600.00,29,North
+2023-01-30,Smartphone,Electronics,18,10800.00,34,South
